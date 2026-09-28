@@ -29,7 +29,7 @@ Horizontal games only.
 ## Files
 | File | Core / games covered | Notes |
 |------|----------------------|-------|
-| example_input_XXXX_XXXX_v3.map | CPS1 (Street Fighter II etc.) | Freeplay via DIP |
+| example_input_XXXX_XXXX_v3.map | Street Fighter II etc. | Freeplay via DIP |
 
 ## Licence
 CC0 – see LICENSE file.
