@@ -9,8 +9,10 @@ Horizontal games only.
 - Tested on MiSTer update from: 28/9/26
 
 ## Button layout
+```
 [ 1 ] [ 2 ] [ 3 ]
 [ 4 ] [ 5 ] [ 6 ]
+```
 
 ## Credits and freeplay
 - Most 6-button games are set to freeplay via their service mode or DIP switch settings.
