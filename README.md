@@ -30,7 +30,7 @@ Horizontal games only.
 ## Files
 | File | Core / games covered | 
 |------|----------------------|
-| example_input_XXXX_XXXX_v3.map | Street Fighter II etc. | 
+| core_name_XXXX_XXXX_v3.map | Street Fighter II etc. | 
 
 ## Licence
 CC0 – see LICENSE file.
