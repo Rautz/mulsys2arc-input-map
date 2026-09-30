@@ -28,9 +28,9 @@ Horizontal games only.
 3. Restart the MiSTer.
 
 ## Files
-| File | Core / games covered | Notes |
-|------|----------------------|-------|
-| example_input_XXXX_XXXX_v3.map | Street Fighter II etc. | Freeplay via DIP |
+| File | Core / games covered | 
+|------|----------------------|
+| example_input_XXXX_XXXX_v3.map | Street Fighter II etc. | 
 
 ## Licence
 CC0 – see LICENSE file.
