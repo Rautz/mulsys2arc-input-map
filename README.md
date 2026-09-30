@@ -1,5 +1,6 @@
 # MultiSystem 2 – 6-Button Arcade Cabinet Input Maps
 
+WORK-IN-PROGRESS
 Per-core button mappings for a dedicated 6-button arcade cabinet running a MultiSystem 2.
 Horizontal games only.
 
