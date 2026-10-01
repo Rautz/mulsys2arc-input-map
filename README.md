@@ -1,11 +1,11 @@
-# MultiSystem 2 Arcade – 6-Button Arcade Cabinet Input Maps
+# Multisystem 2 Arcade – 6-Button Arcade Cabinet Input Maps
 
 WORK-IN-PROGRESS
-Per-core button mappings for a dedicated 6-button arcade cabinet running a MultiSystem 2.
+Per-core button mappings for a dedicated 6-button arcade cabinet running a Multisystem 2.
 Horizontal games only.
 
 ## Hardware
-- MultiSystem 2 Arcade (MiSTer-based), 6-button JAMMA control panel
+- Multisystem 2 Arcade (MiSTer-based), 6-button JAMMA control panel
 - Controller ID (VID:PID): `0fb6_3e05`. These maps only work with this input device.
 - Tested on MiSTer update from: 28/9/26
 
@@ -28,9 +28,9 @@ Horizontal games only.
 3. Restart the MiSTer.
 
 ## Files
-| File | Core / games covered | Notes |
-|------|----------------------|-------|
-| example_input_XXXX_XXXX_v3.map | Street Fighter II etc. | Freeplay via DIP |
+| File | Core / games covered | 
+|------|----------------------|
+| core_name_XXXX_XXXX_v3.map | Street Fighter II etc. | 
 
 ## Licence
 CC0 – see LICENSE file.
