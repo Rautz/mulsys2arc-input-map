@@ -32,12 +32,12 @@ Horizontal games only.
 |------|----------------------|
 | core_name_XXXX_XXXX_v3.map | Street Fighter II etc. | 
 
-## .ini File - FOR MULTISYSTEM 2 ARCADE ONLY!!!!
-There are video overide settings in .ini file to hold the image for horizontal cores with odd refresh rate(rolling image) such as Mortal Kombat. 
+## MiSTer.ini File - FOR MULTISYSTEM 2 ARCADE ONLY!!!!
+There are video overide settings in the MiSTer.ini file to hold the image for horizontal cores with odd refresh rate(rolling image) such as Mortal Kombat. 
 This file isnt needed if you are just after control mapping files
-Before installing the .ini file, you will want to backup your current MiSTer.ini file by renaming to MiSTer.ini.backup
+Before installing the MiSTer.ini file, you will want to backup your current .ini file by renaming to MiSTer.ini.backup
 Then copy the MiSTer.ini file from this repo to your SD card.
-If you want to use on other Mister devices, you can copy over the video settings at the bottom section of the .ini file and paste into your .ini file.
+If you want to use on other Mister devices, you can copy over the video settings at the bottom section of the .ini file and paste into your MiSTer.ini file.
 
 ## Licence
 CC0 – see LICENSE file.
